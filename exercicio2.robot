@@ -4,7 +4,7 @@ Documentation   Exercício 2
 
 *** Variable ***
 
-&{DADO_PESSOAL}    Idade=28     Ano=1993
+&{DADO_PESSOAL}    Idade=35     Ano=1988
 
 *** Keywords ***
 Vai receber a Idade
