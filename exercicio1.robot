@@ -5,7 +5,7 @@ Documentation   Exercício DICIONARIO
 *** Variable ***
 
 #Tipo Dicionário
-&{DADOS_PESSOAL}    Nome=Karine Bueno   Idade=28    Rua=travessa mariquinha capistrano  Número=30   CEP=37540000    Bairro=boa vista    cidade=santa rita do sapucai    estado=minas gerais  
+&{DADOS_PESSOAL}    Nome=William Amaral   Idade=35    Rua=Elisa Rodovia  Número=70   CEP=70852    Bairro=boa vista    cidade=São Paulo    estado=São Paulo
 
 *** Test Cases ***
 Caso de teste do exemplo 01
