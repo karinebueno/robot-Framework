@@ -5,7 +5,7 @@ Documentation   Exercício DICIONARIO
 *** Variable ***
 
 #Tipo Dicionário
-&{DADOS_PESSOAL}    Nome=João Gabriel   Idade=32    Rua=Carla Alameda  Número=30   CEP=63309    Bairro=boa vista    cidade=São Paulo    estado=São Paulo  
+&{DADOS_PESSOAL}    Nome=William Amaral   Idade=32    Rua=Carla Alameda  Número=30   CEP=63309    Bairro=boa vista    cidade=São Paulo    estado=São Paulo  
 
 *** Test Cases ***
 Caso de teste do exemplo 01
