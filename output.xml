@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 5.0.1 (Python 3.10.5 on win32)" generated="20221010 10:14:07.535" rpa="false" schemaversion="3">
-<suite id="s1" name="Exercicio1" source="C:\Users\roberto\Desktop\Documentos\RobotFramework\Projeto\exercicio1.robot">
+<robot generator="Robot 5.0.1 (Python 3.10.5 on win32)" generated="20230817 14:50:03.854" rpa="false" schemaversion="3">
+<suite id="s1" name="Exercicio1" source="C:\Workspace\RobotFramework\Projeto\exercicio1.robot">
 <test id="s1-t1" name="Caso de teste do exemplo 01" line="11">
 <kw name="Uma keyword qualquer 01">
 <kw name="Log To Console" library="BuiltIn">
 <arg>Nome: ${DADOS_PESSOAL.Nome}</arg>
 <doc>Logs the given message to the console.</doc>
-<status status="PASS" starttime="20221010 10:14:07.566" endtime="20221010 10:14:07.567"/>
+<status status="PASS" starttime="20230817 14:50:03.886" endtime="20230817 14:50:03.887"/>
 </kw>
 <kw name="Log To Console" library="BuiltIn">
 <arg>Idade: ${DADOS_PESSOAL.Idade}</arg>
 <doc>Logs the given message to the console.</doc>
-<status status="PASS" starttime="20221010 10:14:07.568" endtime="20221010 10:14:07.569"/>
+<status status="PASS" starttime="20230817 14:50:03.888" endtime="20230817 14:50:03.889"/>
 </kw>
 <kw name="Log To Console" library="BuiltIn">
 <arg>Rua: ${DADOS_PESSOAL.Rua}</arg>
 <doc>Logs the given message to the console.</doc>
-<status status="PASS" starttime="20221010 10:14:07.569" endtime="20221010 10:14:07.571"/>
+<status status="PASS" starttime="20230817 14:50:03.889" endtime="20230817 14:50:03.890"/>
 </kw>
 <kw name="Log To Console" library="BuiltIn">
 <arg>Número: ${DADOS_PESSOAL.Número}</arg>
 <doc>Logs the given message to the console.</doc>
-<status status="PASS" starttime="20221010 10:14:07.571" endtime="20221010 10:14:07.572"/>
+<status status="PASS" starttime="20230817 14:50:03.890" endtime="20230817 14:50:03.891"/>
 </kw>
 <kw name="Log To Console" library="BuiltIn">
 <arg>CEP: ${DADOS_PESSOAL.CEP}</arg>
 <doc>Logs the given message to the console.</doc>
-<status status="PASS" starttime="20221010 10:14:07.573" endtime="20221010 10:14:07.574"/>
+<status status="PASS" starttime="20230817 14:50:03.891" endtime="20230817 14:50:03.893"/>
 </kw>
 <kw name="Log To Console" library="BuiltIn">
 <arg>Bairro: ${DADOS_PESSOAL.Bairro}</arg>
 <doc>Logs the given message to the console.</doc>
-<status status="PASS" starttime="20221010 10:14:07.574" endtime="20221010 10:14:07.575"/>
+<status status="PASS" starttime="20230817 14:50:03.893" endtime="20230817 14:50:03.894"/>
 </kw>
-<status status="PASS" starttime="20221010 10:14:07.565" endtime="20221010 10:14:07.576"/>
+<status status="PASS" starttime="20230817 14:50:03.886" endtime="20230817 14:50:03.894"/>
 </kw>
-<status status="PASS" starttime="20221010 10:14:07.565" endtime="20221010 10:14:07.576"/>
+<status status="PASS" starttime="20230817 14:50:03.885" endtime="20230817 14:50:03.894"/>
 </test>
 <doc>Exercício DICIONARIO</doc>
-<status status="PASS" starttime="20221010 10:14:07.538" endtime="20221010 10:14:07.578"/>
+<status status="PASS" starttime="20230817 14:50:03.856" endtime="20230817 14:50:03.896"/>
 </suite>
 <statistics>
 <total>

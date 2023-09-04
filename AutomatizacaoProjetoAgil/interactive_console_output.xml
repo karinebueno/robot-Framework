@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.10.5 on win32)" generated="20230904 09:59:21.953" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\roberto\.vscode\extensions\robocorp.robotframework-lsp-1.11.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Acessar a home page do site Pipoca Agil">
+<msg timestamp="20230904 09:59:23.547" level="FAIL">No keyword with name 'Acessar a home page do site Pipoca Agil' found.</msg>
+<status status="FAIL" starttime="20230904 09:59:23.546" endtime="20230904 09:59:23.547"/>
+</kw>
+<kw name="Entrar no menu LOGIN">
+<status status="NOT RUN" starttime="20230904 09:59:23.552" endtime="20230904 09:59:23.552"/>
+</kw>
+<kw name="Verificar se aparece a frase &quot;Faça o Login&quot;">
+<status status="NOT RUN" starttime="20230904 09:59:23.555" endtime="20230904 09:59:23.555"/>
+</kw>
+<kw name="Digitar o email do adm">
+<status status="NOT RUN" starttime="20230904 09:59:23.559" endtime="20230904 09:59:23.560"/>
+</kw>
+<kw name="Digitar a senha do adm">
+<status status="NOT RUN" starttime="20230904 09:59:23.566" endtime="20230904 09:59:23.566"/>
+</kw>
+<kw name="Clicar em entrar">
+<status status="NOT RUN" starttime="20230904 09:59:23.570" endtime="20230904 09:59:23.570"/>
+</kw>
+<kw name="Clicar em &quot;Consultar o painel de adm&quot;">
+<status status="NOT RUN" starttime="20230904 09:59:23.573" endtime="20230904 09:59:23.573"/>
+</kw>
+<kw name="Clicar no botão Upload Trilha do Conhecimento">
+<status status="NOT RUN" starttime="20230904 09:59:23.620" endtime="20230904 09:59:23.620"/>
+</kw>
+<kw name="Verificar se os botões &quot;+ Upload Links+ Upload Arquivos&quot; estão visiveis">
+<status status="NOT RUN" starttime="20230904 09:59:23.625" endtime="20230904 09:59:23.625"/>
+</kw>
+<status status="PASS" starttime="20230904 09:59:22.006" endtime="20230904 09:59:25.208"/>
+</kw>
+<status status="PASS" starttime="20230904 09:59:22.005" endtime="20230904 09:59:25.208"/>
+</test>
+<status status="PASS" starttime="20230904 09:59:21.957" endtime="20230904 09:59:25.210"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
