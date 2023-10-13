@@ -13,7 +13,6 @@ ${DIGITAR_PASSWORD}     //input[contains(@type,'password')]
 ${BOTAO_ENTRAR}          //button[contains(.,'ENTRAR')]
 ${BOTAO_PAINEL_ADM}     //p[@class='text-secondary mb-3 font-semibold'][contains(.,'Consultar o painel de adm')]
 ${BOTAO_TRILHADECONHECIMENTO}    //img[contains(@alt,'IconRocket')]
-#${TITULO_TRILHADECONHECIMENTO}    //h2[@class='text-white text-4xl font-bold'][contains(.,'Trilha de Conhecimento')]
 
 *** Keywords ***
 
@@ -53,10 +52,6 @@ Clicar em "Consultar o painel de adm"
 Clicar no botão Upload Trilha do Conhecimento
     Wait Until Element Is Visible    locator=${BOTAO_TRILHADECONHECIMENTO}    timeout=10s
     Click Image    locator=${BOTAO_TRILHADECONHECIMENTO}
-
-#Verificar se o título da página fica "Trilha de Conhecimento"
-    #Wait Until Element Is Visible    locator=${TITULO_TRILHADECONHECIMENTO}    
-    #Page Should Contain Element    locator=${TITULO_TRILHADECONHECIMENTO}  
 
 Verificar se aparecerá uma lista onde contém o Título
     Wait Until Element Is Visible    locator=//div[@class='flex justify-center w-full'][contains(.,'Título')]
